@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashburn-nrh" alt="ashburn-nrh" /></a> </p>
 
-- 🔭 I’m currently working on [sales-connect](https://github.com/ashburn-nrh/SalesConnect)
-
-- 🌱 I’m currently learning **React-native and AWS**
 
 - 👯 I’m looking to collaborate on [React-Native](https://github.com/ashburn-nrh/Tourist-app)
 
